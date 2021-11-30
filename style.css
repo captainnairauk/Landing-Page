@@ -18,6 +18,13 @@ body{
     height: 70px;
 }
 
+.header img{
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
 .card-1{
     display: flex;
     justify-content: center;
@@ -82,6 +89,7 @@ body{
     line-height: 150px;
     text-align: center;
     color: #f9faf8;
+    border: 2px solid #1f2937;
 }
 
 .card-2 .project-container .projects{
